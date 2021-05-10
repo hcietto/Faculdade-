@@ -1,0 +1,53 @@
+canvas{
+    position: relative;
+    display: block;
+    margin: auto;
+    border: solid 8px black;
+    margin-top: 100px;
+    background-image: url("background.png");
+    
+}
+
+body{
+    font-family: monospace;
+    background-color: #68228B;
+}
+
+#info{
+    font-family: monospace;
+    background-color: #B452CD;
+    border: solid 8px black;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-right: 1200px;
+    position: absolute;
+    padding: 10px;
+}
+
+#titulo{
+    background-color: #b3b317;
+    font-size: 30px;
+    padding: 5px;
+    text-align: center;
+}
+
+#links{
+    text-align: left;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    background-color: blueviolet;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+a:hover{
+    font-style: italic;
+    font-weight: bolder;
+}
