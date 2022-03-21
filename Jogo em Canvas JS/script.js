@@ -244,7 +244,7 @@ function colisoes() {
 
 }
 
-//renerizar
+//renderizar
 function render() {
     ctx.clearRect(0,0, cnv.width, cnv.height)
     player1();
